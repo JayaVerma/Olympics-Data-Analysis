@@ -1,7 +1,7 @@
 # Olympics-Data-Analysis
 Olympics Data Analysis is a Data Analysis project where I have worked on a Real World Olympics Data set With more than 31000 of rows and 9 columns. I have used different Python libraries(i.e. Numpy, Pandas and Matplotlib) to make my Analysis more interactive and readable.
 
-## Feature
+# Features Of this Analysis
 In this Analysis their are specific Number of Questions which are answered with proper bar graph with labels and titles.
 ### 1. In how many cities Summer Olympics is held so far?
 ### 2. Which sport is having most number of Gold Medals so far? (Top 5)
