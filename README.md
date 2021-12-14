@@ -14,7 +14,7 @@ In this Analysis their are specific Number of Questions which are answered with 
 
 # About Me:
 I am Jaya Verma, currently pursuing engineering from Electronics and telecommunication branch from the University of Mumbai.
-I am a 5star coder in python at Hackerrank and intersted in Data Science and ML domain.
+I am a 5star coder in Python and 4star in SQL at Hackerrank and intersted in Data Science and ML domain.
 
 ### Connect me on 
 Linkedin - https://www.linkedin.com/in/jaya0902verma
